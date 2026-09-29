@@ -1,2 +1,2 @@
 # lost-found-portal
-A web based platform where users can report lost or found items.
+A web-based platform to report search and manage lost and found items easily.
