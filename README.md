@@ -1,2 +1,0 @@
-# lost-found-portal
-A web-based platform to report search and manage lost and found items easily.
